@@ -20,6 +20,7 @@ src:url('fontes/idroid.otf')format('opentype');
   margin: 0px;
   padding: 0px;
 }
+
 body{
  background-color: #c5ebd6;
  background-attachment: fixed;
@@ -124,7 +125,7 @@ main strong{
   
 }
 main a{
-  color: blue;
+  color: #3ddc84;
 }
 footer a{
   color: white;
